@@ -1,4 +1,4 @@
 # Identity Access Management
 
 - Centralized control of your AWS account
-- shared accedd
+- shared access 
